@@ -9,7 +9,7 @@
 
 import random
 from static_array import *
-import math
+
 
 # ------------------- PROBLEM 1 - REVERSE -----------------------------------
 
